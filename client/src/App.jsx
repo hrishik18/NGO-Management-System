@@ -8,19 +8,15 @@ import "./App.css";
 function App() {
   return (
     <EthProvider>
-      <div id="App" >
-        <div className="container">
-          <Intro />
-          <hr />
-          <Setup />
-          <hr />
-          <Demo />
-          <hr />
-          <Footer />
-        </div>
-      </div>
+         <button class="button-3">Connect wallet</button>
+         <br />
+         <br />
+         <button class="button-3">Make transaction</button>
     </EthProvider>
   );
 }
 
 export default App;
+
+
+

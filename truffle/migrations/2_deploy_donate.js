@@ -6,7 +6,7 @@ module.exports = function (deployer) {
 
 
 // const Web3 = require('web3');
-// const abi = require('<PATH_TO_ABI_FILE>'); // Replace with path to the ABI file
+// const abi = require('./build/contracts/Donation.json); // Replace with path to the ABI file
 // const contractAddress = '<YOUR_CONTRACT_ADDRESS>'; // Replace with the contract address on your network
 
 // // Connect to your Ethereum network
